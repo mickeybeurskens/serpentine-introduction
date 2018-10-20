@@ -17,11 +17,12 @@ from IPython.display import clear_output
 
 def play_game(q_table, env):
     """Visually play a game of Taxi-V2 using a q table"""
+    pass
 
 
 def train_taxi():
     """Takes a q table and trains it, returns training data"""
-
+    pass
 
 def get_performance():
     """Print the average performance of an agent over 100 episodes"""
