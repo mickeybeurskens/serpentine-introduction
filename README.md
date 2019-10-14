@@ -1,4 +1,4 @@
-# serpentine-introduction
+# Serpentine Tabular RL Introduction
 A basic tabular Reinforcement Learning challenge. The challenge is the same for every level but the difficulty is different. Take a look at the different levels for a readme containing the introduction and the challenge at the end.
 
 A complete implementation of the challenge can also be found in the top level directory.
