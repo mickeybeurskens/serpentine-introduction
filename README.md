@@ -1,2 +1,2 @@
-# fruitpunch-introduction
+# serpentine-introduction
 Introduction to FruitPunch.
